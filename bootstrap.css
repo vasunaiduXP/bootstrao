@@ -27,4 +27,5 @@
 
 
 #
-    ms is mrgin_start    // add space from start i.e., left
+    ms-auto is mrgin_start    // add space from start i.e., left
+    me-auto is mrgin_end   // add space from end i.e., right
