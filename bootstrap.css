@@ -49,4 +49,26 @@
 
 #       overflow-hidden
 
+#       display-1
+        display-2
+        ..
+        display-6
+
+# 
+      text-decoration-line-through    // to strike the text
+      text-decoration-underline       // to underline the text
+      small
+
+#list     list-unstyled
+          list-inline-item
+          text-truncate
+
+#Images 
+          img-fluid
+          img-thumbnail
+          mx-auto d-block  for centering images
+
+
+
+
 
