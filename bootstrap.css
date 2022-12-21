@@ -29,3 +29,10 @@
 #
     ms-auto is mrgin_start    // add space from start i.e., left
     me-auto is mrgin_end   // add space from end i.e., right
+
+
+#clearfix
+        <div class="bg-info clearfix">
+            <button type="button" class="btn btn-secondary float-left">Example Button floated left</button>
+            <button type="button" class="btn btn-secondary float-right">Example Button floated right</button>
+        </div>
