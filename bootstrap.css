@@ -8,4 +8,12 @@
   justify-content-start
   justify-content-center
   justify-content-end
+
+  justify-content-around
+  justify-content-between
+  justify-content-evenly
+
+
+#
+  w-100 // for separating cols         i.e., dividing 1 row into 2 rows
   
